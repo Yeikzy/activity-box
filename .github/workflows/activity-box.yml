@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: Yeikzy
-          GIST_ID: 0e89d5c114924a85bf09eb7fa67fdf95
+          GIST_ID: 649ffd066b0839e8f35c66af43520353
